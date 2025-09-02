@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buraktahap" alt="buraktahap" /></a> </p>
 
-- 🌱 I’m currently learning **Swift, Java Spring**
-
 - 📫 How to reach me **buraktahapeksen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
